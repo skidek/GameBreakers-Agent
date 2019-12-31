@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Agent-Class: club.gamebreakers.PreMain
+Premain-Class: club.gamebreakers.PreMain
+Main-Class: club.gamebreakers.Main
+Permissions: all-permissions
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
